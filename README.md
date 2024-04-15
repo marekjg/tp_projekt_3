@@ -57,3 +57,7 @@ Dodatkowo:
 5. Progowanie sygnału (1 dla > progu, 0 dla mniejszego)
 6. Usuwanie niskich częstotliwości z sygnału (korzystajac z DFT)
 7. Usuwanie wysokich częstotliwości z sygnału (korzystajac z DFT)
+8. Zaszumianie sygnału (dodawanie sygnału losowego)
+9. Liczenie korelacji dwóch sygnałów
+10. Liczenie autokorelacji sygnału
+11. Interpolacja dwuliniowa na siatce
